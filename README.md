@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fırat Işıldak</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
-<img align="right" alt="Coding" width="600" src="https://i.pinimg.com/originals/44/ac/c8/44acc8ee2d1b09f92c032cebb38227b4.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/44/ac/c8/44acc8ee2d1b09f92c032cebb38227b4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yazilimcifirat&label=Profile%20views&color=0e75b6&style=flat" alt="yazilimcifirat" /> </p>
 
