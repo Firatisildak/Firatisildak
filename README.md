@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yazilimcifirat&label=Profile%20views&color=0e75b6&style=flat" alt="yazilimcifirat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yazilimcifirat" alt="yazilimcifirat" /></a> </p>
 
 - 🔭 I’m currently working on **Education sales**
 
