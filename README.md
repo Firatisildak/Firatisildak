@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)([https://linkedin.com/in/Fırat Işıldak](https://www.linkedin.com/in/fırat-işıldak-608176250/)) 
+![LinkedIn](https://www.linkedin.com/in/fırat-işıldak-608176250/)([https://linkedin.com/in/Fırat Işıldak]) 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=Portfolio&logoColor=white)([https://firatisildak.netlify.app/](https://firatisildak.netlify.app/)) 
 
 # 💻 Tech Stack:
