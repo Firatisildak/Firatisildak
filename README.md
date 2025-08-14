@@ -22,46 +22,58 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/fırat-işıldak-608176250/"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
-  <a href="https://firatisildak.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%2300C4CC.svg?style=for-the-badge&logo=google-chrome&logoColor=white" height="45"/></a>
-  <a href="mailto:firatisildak1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>
-  <a href="https://github.com/Firatisildak"><img src="https://skillicons.dev/icons?i=github" height="45" /></a>
+  <marquee behavior="scroll" direction="left" scrollamount="10">
+    <a href="https://www.linkedin.com/in/fırat-işıldak-608176250/"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
+    <a href="https://firatisildak.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%2300C4CC.svg?style=for-the-badge&logo=google-chrome&logoColor=white" height="45"/></a>
+    <a href="mailto:firatisildak1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>
+    <a href="https://github.com/Firatisildak"><img src="https://skillicons.dev/icons?i=github" height="45" /></a>
+  </marquee>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,html,css,php,dotnet,react,bootstrap,mysql,sqlite,azure,git,github,visualstudio,vscode&perline=8" />
+  <marquee behavior="scroll" direction="right" scrollamount="10">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,html,css,php,dotnet,react,bootstrap,mysql,sqlite,azure,git,github,visualstudio,vscode&perline=20" />
+  </marquee>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Firatisildak&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Firatisildak&theme=radical&hide_border=true" height="165" />
+  <marquee behavior="scroll" direction="left" scrollamount="8">
+    <img src="https://github-readme-stats.vercel.app/api?username=Firatisildak&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Firatisildak&theme=radical&hide_border=true" height="150" />
+  </marquee>
 </p>
 
 ---
 
 ## 🔝 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firatisildak&layout=compact&theme=radical&hide_border=true" height="165" />
+  <marquee behavior="scroll" direction="right" scrollamount="8">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firatisildak&layout=compact&theme=radical&hide_border=true" height="150" />
+  </marquee>
 </p>
 
 ---
 
 ## ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
+  <marquee behavior="scroll" direction="left" scrollamount="7">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
+  </marquee>
 </p>
 
 ---
 
 ## 😂 Dev Meme
 <p align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" width="400" />
+  <marquee behavior="scroll" direction="right" scrollamount="6">
+    <img src="https://i.imgflip.com/65efzo.gif" width="400" />
+  </marquee>
 </p>
 
 ---
