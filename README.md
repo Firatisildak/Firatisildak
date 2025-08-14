@@ -1,61 +1,70 @@
-# 💫 About Me
+<!-- Profil Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:87CEFA&height=200&section=header&text=Hi%20I'm%20Fırat%20Işıldak%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/44/ac/c8/44acc8ee2d1b09f92c032cebb38227b4.gif" />
-
+<!-- Hakkımda -->
+## 💫 About Me
+💻 Backend Developer | .NET Enthusiast | Clean Architecture Lover  
 🔭 Currently working on **E-Commerce Projects**  
-🌱 Learning & improving skills in **.NET & Clean Architecture**  
-💬 Ask me about **Backend Development**  
-📫 Reach me at **firatisildak1@gmail.com**  
-⚡ Fun fact: *I turn coffee into code faster than my compiler can throw errors*  
+🌱 Improving my skills in **.NET, Blazor, SQL Server**  
+⚡ Fun fact: *I debug faster than my coffee cools down*  
 
 ---
 
+<!-- Sosyal Medya -->
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fırat-işıldak-608176250/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C4CC.svg?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://firatisildak.netlify.app/)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/fırat-işıldak-608176250/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://firatisildak.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:firatisildak1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
+<!-- Teknoloji Stack -->
 ## 💻 Tech Stack
-
-**Languages & Frameworks**  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
-
-**Frameworks & Tools**  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
-
-**Design Tools**  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,html,css,php,dotnet,react,bootstrap,mysql,postgres,sqlite,azure,git,github,visualstudio,vscode&theme=dark" />
+</p>
 
 ---
 
+<!-- GitHub İstatistikleri -->
 ## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Firatisildak&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?username=Firatisildak&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Firatisildak&theme=dark&hide_border=false&layout=compact)  
-
----
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Firatisildak&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Firatisildak&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
 ---
 
-## 😂 Dev Meme
-<img src="https://i.imgflip.com/65efzo.gif" width="400" alt="Dev Meme">
+<!-- En Çok Kullanılan Diller -->
+## 🔝 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firatisildak&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
 ---
+
+<!-- Alıntı -->
+## ✍️ Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<!-- Gif -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/44/ac/c8/44acc8ee2d1b09f92c032cebb38227b4.gif" width="400" />
+</p>
+
+---
+
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:87CEFA&height=120&section=footer" />
